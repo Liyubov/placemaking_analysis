@@ -9,5 +9,10 @@ Here we include analysis of:
 3. topic modeling of the text 
 4. statistical text analysis
 
+## Motivation 
 The main motivation behind analysis of placemaking events is to 
 answer the questions: "What are succesfull placemaking activities? How to disentangle those activities into phases for better understanding and facilitation of outcomes?" 
+
+
+Often place-making activities are quite demanding in documenting and sense-making. 
+Hence one needs to make sure they are assisted in a relevant and correct way within the ethical AI framework.
