@@ -1,6 +1,7 @@
 # Placemaking analysis
 
 Analysis of the place making sessions during the discussions of the project opening Wake up! Cities https://cisr-berlin.org/wakeupcities
+Other examples of such projects include but are not limited to https://participedia.net/case/63 
 
 Here we include analysis of:
 
