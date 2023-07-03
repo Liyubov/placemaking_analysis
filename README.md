@@ -1,7 +1,6 @@
 # Placemaking analysis
 
-Analysis of the place making sessions during the discussions of the project opening Wake up! Cities https://cisr-berlin.org/wakeupcities
-Other examples of such projects include but are not limited to https://participedia.net/case/63 
+Here we present analysis of the place making sessions during the discussions of the project opening Wake up! Cities https://cisr-berlin.org/wakeupcities
 
 Here we include analysis of:
 
@@ -17,3 +16,5 @@ answer the questions: "What are succesfull placemaking activities? How to disent
 
 Often place-making activities are quite demanding in documenting and sense-making. 
 Hence one needs to make sure they are assisted in a relevant and correct way within the ethical AI framework.
+
+Other examples of similar place-making and sense-making projects include but are not limited to Listening to the city https://participedia.net/case/63, My city Maelmo, sense maker tools https://www.sitra.fi/en/projects/sensemaker-tool-experiments
